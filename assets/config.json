@@ -1,0 +1,11 @@
+{
+    "user": {
+        "combo_dir": "assets/",
+        "captcha_key": ""
+    },
+    "program": {
+        "debug": false,
+        "client_build_number": "245361",
+        "proxies": true
+    }
+}
